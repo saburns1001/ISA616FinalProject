@@ -1,8 +1,9 @@
 # ISA616FinalProject
 Names: Sheridan Burns and Michael McGinn
 
-##Dr. Farmer's Final Project
+## Dr. Farmer's Final Project
 In this repository and with this project, we will perform a variety of analyses that will be needed to complete full report for Dr. Farmer. The specific information of our apprach is given:
+
 ## Problem Statement and Overview
 Our problem is that the FSB IS and BA Departments have information stored in a way that is hard to verify. Currently, the way to organize and track student classes (Freshman, Sophomore, etc.) is inconsistent, which leads to confusion when trying to count them. Because of this, there seems to be a disproportionate number of seniors compared to those who graduate in that same year. Our goal is to reorganize the data to develop an easier and more informative way to present and analyze it. 
 
